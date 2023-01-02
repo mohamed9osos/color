@@ -1,0 +1,224 @@
+/* body{
+    background-color: #eee;
+}
+ul{
+    padding: 0;
+    margin: 0;
+    background-color: #ddd;
+    margin: 20px auto;
+    padding: 20px;
+    width: 400px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+ul li {
+    width: 60px;
+    height: 60px;
+    border: 2px solid transparent;
+    opacity: 0.4;
+    cursor: pointer;
+    transition: 0.3s;
+}
+ul li.active,
+ul li:hover{
+    opacity: 1;
+}
+
+ul li:first-child{
+    background-color: red;
+}
+ul li:nth-child(2){
+    background-color: green;
+}
+ul li:nth-child(3){
+    background-color: blue;
+}
+ul li:nth-child(4){
+    background-color: black;
+}
+
+.experiment{
+    background-color: red;
+    width: 600px;
+    height: 300px;
+    margin: 20px auto;
+} */
+
+
+/* :focus{
+    outline: none;
+}
+
+
+input,
+.input{
+    width: 200px;
+    height: 30px;
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    padding: 0;
+    border: 1px solid red;
+    background-color: #eee;
+
+}
+.results{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    color: white;
+    flex-wrap: wrap;
+    text-align: center;
+}
+.box{
+    width: 150px;
+    height: 30px;
+
+} */
+/* *{
+    box-sizing: border-box;
+}
+:focus {
+    outline: none;
+}
+
+.container {
+    width: fit-content;
+    margin: auto;
+}
+
+.form {
+    background-color: #ccc;
+    width: 600px;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.input {
+    width: 80%;
+    padding: 5px;
+    border-radius: 6px;
+    border: none;
+}
+
+.add {
+    background-color: orangered;
+    border: none;
+    color: white;
+    border-radius: 6px;
+}
+
+.tasks {
+    background-color: #ccc;
+    padding:20px 20px 20px 20px;
+    border-radius: 10px;
+
+}
+
+.tasks .task{
+    width: 100%;
+    height: 30px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.tasks .task:hover{
+    background-color: #f7f7f7;
+}
+.tasks .task:not(:last-child){
+    margin-bottom: 15px;
+}
+.tasks .task.done{
+    opacity: 0.5;
+}
+.group{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+}
+button{
+    font-weight: bold;
+    height: 15px;
+    font-size: 10px;
+    background-color: orangered;
+    border: none;
+    color: white;
+    border-radius: 8px;
+    padding: 2px 6px;
+    cursor: pointer;
+}  */
+
+/* span{
+    font-weight: bold;
+    height: 15px;
+    font-size: 10px;
+    background-color: orangered;
+    border: none;
+    color: white;
+    border-radius: 8px;
+    padding: 2px 6px;
+    cursor: pointer;
+}  */
+
+
+/* *{
+    box-sizing: border-box;
+}
+
+.container{
+    width: 100%;
+    height: 400px;
+    background-color: #777;
+}
+.cards{
+    width: 500px;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.crd{
+    width: 110px;
+    height: 100%;
+    border: 2px solid black;
+}
+.crd1{background-color: red;}
+.crd2{background-color: green;}
+.crd3{background-color: orange;}
+.crd4{background-color: blueviolet;}
+.card{
+    width: 500px;
+    height: 250px;
+    background-color: green;
+    margin: auto;
+    margin-top: 50px;
+} */
+
+
+
+
+
+button{
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+    border: none;
+    color: red;
+    font-size: 50px;
+    font-weight: bold;
+    display: block;
+    margin: auto;
+    position: relative;
+    bottom: -200px;
+}
